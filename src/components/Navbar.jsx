@@ -7,7 +7,7 @@ function Navbar() {
             <section className="logo">
                 <h2>🐶🐾 Petshop </h2>
             </section>
-
+            
         <section>
             <NavLink to="/">Inicio</NavLink>
             <NavLink to="/perros">Perros</NavLink>
